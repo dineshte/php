@@ -15,5 +15,5 @@ A basic LAMP stack environment built using Docker Compose. It consists of the fo
 * Redis
 
 # Command to run
-* docker-compose up after Note : running the command wait for few minutes
+* docker-compose up
 * Then Open Urls => http://localhost/analytics/stocks/list_watch.php
