@@ -14,6 +14,6 @@ A basic LAMP stack environment built using Docker Compose. It consists of the fo
 * phpMyAdmin
 * Redis
 
-Command to run
-docker-compose up after Note : running the command wait for few minutes
-Then Open Urls => http://localhost/analytics/stocks/list_watch.php
+# Command to run
+* docker-compose up after Note : running the command wait for few minutes
+* Then Open Urls => http://localhost/analytics/stocks/list_watch.php
